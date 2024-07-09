@@ -2,17 +2,19 @@
 
 This project demonstrates a simple increment counter for social media followers. The counters animate from 0 to the target number specified in the HTML.
 
+## Table of Contents
+
+- [Features](#features)
+- [Screenshot](#screenshot)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [Credits](#credits)
+
 ## Features
 
 - Animated counters for different social media platforms
 - Uses Font Awesome icons for social media logos
-
-## Technologies Used
-
-- HTML
-- CSS
-- JavaScript
-- [Font Awesome](https://cdnjs.com/libraries/font-awesome)
 
 ## Screenshot
 
@@ -35,12 +37,6 @@ This project demonstrates a simple increment counter for social media followers.
 ## Usage
 
 Open the index.html file in your web browser or simply checkout the deployed website under "About" section.
-
-## Project Structure
-
-- index.html: The main HTML file containing the structure of the counter.
-- style.css: The CSS file for styling the counter.
-- script.js: The JavaScript file for the counter animation.
 
 ## Contributing
 
