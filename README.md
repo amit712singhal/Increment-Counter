@@ -6,7 +6,7 @@ A simple increment counter for social media followers. The counters animate from
 
 ![Increment-Counter-Demo](./demo.png)
 
-## Usage
+## How to Use ?
 
 Open the index.html file in your web browser or simply checkout the deployed website [here](https://amit712singhal.github.io/Increment-Counter/).
 
